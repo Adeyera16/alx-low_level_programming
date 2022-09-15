@@ -1,1 +1,1 @@
-This is  a function that draws a diagonal line on the terminal.
+This is a function that prints a square, followed by a new line.
