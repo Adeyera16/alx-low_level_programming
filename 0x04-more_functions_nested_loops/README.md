@@ -1,1 +1,1 @@
-a function that checks for a digit (0 through 9)
+This is a function that multiplies two integers.
