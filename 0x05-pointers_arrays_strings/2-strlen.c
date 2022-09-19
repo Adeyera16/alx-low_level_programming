@@ -3,6 +3,8 @@
 /**
  *_strlen - calculate the length of a string
  *@s: A pointer to an int that will be changed
+ *
+ *Return: void
  */
 int _strlen(char *s)
 {
