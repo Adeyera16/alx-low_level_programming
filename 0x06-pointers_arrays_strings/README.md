@@ -1,1 +1,1 @@
-This is  a function that copies a string.2
+This is  a function that capitalizes all words of a string.
