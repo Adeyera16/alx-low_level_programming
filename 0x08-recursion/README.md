@@ -1,1 +1,1 @@
-This is a function that returns the length of a string.
+This is a function that returns the factorial of a given number.
