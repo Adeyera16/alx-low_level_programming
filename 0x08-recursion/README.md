@@ -1,1 +1,1 @@
-This is a function that prints a string in reverse.
+This is a function that returns the length of a string.
