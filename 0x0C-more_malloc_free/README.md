@@ -1,1 +1,1 @@
-This is a function that allocates memory using malloc
+This is a program that multiplies two positive numbers.
